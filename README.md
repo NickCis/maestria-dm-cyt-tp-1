@@ -37,9 +37,9 @@ pip install numpy pandas sklearn
 Se debe descargar el dataset provisto por la catedra y colocarlo en la carpeta `dataset`.
 
 ```
-wget https://www.dropbox.com/s/ms6260jqmsmz5qu/audio_features.pickle?dl=1 -O dataset/audio_features.pickle
-wget https://www.dropbox.com/s/8d0y9bms80ly8ui/tracks.pickle?dl=1 -O dataset/tracks.pickle
-wget https://www.dropbox.com/s/1cmb8e8zvv6hsfs/audio_analysis.pickle?dl=1 -O dataset/audio_analysis.pickle
+wget 'https://www.dropbox.com/s/ms6260jqmsmz5qu/audio_features.pickle?dl=1' -O dataset/audio_features.pickle
+wget 'https://www.dropbox.com/s/8d0y9bms80ly8ui/tracks.pickle?dl=1' -O dataset/tracks.pickle
+wget 'https://www.dropbox.com/s/1cmb8e8zvv6hsfs/audio_analysis.pickle?dl=1' -O dataset/audio_analysis.pickle
 ```
 
 ## Procesamiento del set de datos
